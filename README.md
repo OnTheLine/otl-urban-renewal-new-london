@@ -5,7 +5,8 @@
 
 ## archival copy
 - saved by Jack Dougherty, Trinity College, for https://OnTheLine.trincoll.edu
-- data uploaded from Google Sheet into CSV folder 
+- data uploaded from Google Sheet into CSV folder
+- converted to Leaflet Maps with Google Sheets v 1.3.1
 
 ## credits
 - originally created by Fionnuala Darby-Hudgens, CT Fair Housing Center, with New London Landmarks
