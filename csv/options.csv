@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,"Discrimination, Urban Renewal, and New London’s Lost Neighborhood",
-Storymap Subtitle,"Winthrop Cove, New London, CT, 1962-67","Add your subtitle, or delete that portion"
+Storymap Subtitle,"Winthrop Cove, New London, CT, 1962-67<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>","Add your subtitle, or delete that portion"
 Storymap Logo,media/cfhc-nll-logos.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
